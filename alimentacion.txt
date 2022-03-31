@@ -1,0 +1,4 @@
+son tres tipos
+carnivoros 
+hervivoros
+obnivoros
